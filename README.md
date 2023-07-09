@@ -3,7 +3,7 @@
 
 ### In this project I am going to collect and analyse Human Resource (HR) dataset in order to improve an organization's workforce performance. Some people also called this process Talent Analytics, People Analytics or Workforce Analytics.
 
-#### MS powerpoint will be used to create dashboard background while Tableau will be uemployed for the visualization
+#### The data wrangling and cleaning are carried using SQL. Then, data manipulation and data analysis will also be carry out by employing SQL also. MS powerpoint will be used to create dashboard background while Tableau will be uemployed for the visualization
 
 
 ## Authors
