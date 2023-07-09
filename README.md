@@ -8,7 +8,7 @@
 
 ## Authors
 
-- [@Gokoyer(Nathaniel)](https://www.github.com/octokatherine)
+- [@Gokoyer](https://www.github.com/octokatherine)
 
 
 ## Acknowledgements
